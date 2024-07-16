@@ -1,0 +1,31 @@
+# NAME: US Wi-Fi Calling 
+# AUTHOR: mz247
+# REPO: https://github.com/mz247/Surge
+# UPDATED: 
+# DOMAIN-SUFFIX: 
+# 支持UDP转发的节点
+
+#AT&T:
+DOMAIN-SUFFIX,epdg.epc.att.net
+DOMAIN-SUFFIX,sentitlement2.mobile.att.net
+DOMAIN-SUFFIX,vvm.mobile.att.net
+DOMAIN-SUFFIX,mmsc.mobile.att.net
+
+#Verizon:
+DOMAIN-SUFFIX,wo.vzwwo.com 
+DOMAIN-SUFFIX,sg.vzwfemto.com
+
+#T-Mobile:
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,eas3.msg.t-mobile.com
+
+#IP-CIDR,109.239.140.0/24
+#IP-CIDR,107.122.31.61/32
+#IP-CIDR,166.137.140.129/32
+#IP-CIDR,166.216.0.0/16
+#IP-CIDR,107.225.65.197/32
+#IP-CIDR,141.207.0.0/16
+#IP-CIDR,69.78.99.0/8
+#IP-CIDR,208.54.0.0/16
