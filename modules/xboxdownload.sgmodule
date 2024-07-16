@@ -1,0 +1,12 @@
+#!name=Xbox下载加速
+#!desc=加速xbox游戏下载
+
+[rule]
+DOMAIN,assets1.xboxlive.com,DIRECT
+DOMAIN,assets2.xboxlive.com,DIRECT
+DOMAIN,assets3.xboxlive.com,DIRECT
+
+[Host]
+assets*.xboxlive.com = 23.32.241.147 // IP 指定为测试结果最快的那个
+assets*.xboxlive.cn = 59.63.235.26 // 注意 .com 和 .cn 不要都指向一个 IP
+dlassets.xboxlive.cn = 59.63.235.26
