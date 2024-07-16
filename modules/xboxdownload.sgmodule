@@ -1,7 +1,7 @@
 #!name=Xbox下载加速
 #!desc=加速xbox游戏下载
 
-[rule]
+[Rule]
 DOMAIN,assets1.xboxlive.com,DIRECT
 DOMAIN,assets2.xboxlive.com,DIRECT
 DOMAIN,assets3.xboxlive.com,DIRECT
