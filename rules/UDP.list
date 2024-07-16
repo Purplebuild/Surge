@@ -1,0 +1,12 @@
+# NAME: UDP
+# AUTHOR: mz247
+# REPO: https://github.com/mz247/Surge
+# UPDATED: 
+# DOMAIN-SUFFIX: 
+# TOTAL: 
+
+
+AND,((GEOIP,US),(AND,((PROTOCOL,UDP),(OR,((DEST-PORT,500),(DEST-PORT,4500)))))),Us Wi-Fi call
+AND,((GEOIP,HK),(AND,((PROTOCOL,UDP),(OR,((DEST-PORT,500),(DEST-PORT,4500)))))),HK Wi-Fi Call
+AND,((GEOIP,GB),(AND,((PROTOCOL,UDP),(OR,((DEST-PORT,500),(DEST-PORT,4500)))))),UK Wi-Fi Call
+No newline at end of file
