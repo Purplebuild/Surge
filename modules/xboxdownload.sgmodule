@@ -7,6 +7,6 @@ DOMAIN,assets2.xboxlive.com,DIRECT
 DOMAIN,assets3.xboxlive.com,DIRECT
 
 [Host]
-assets*.xboxlive.com = 23.32.241.147 // IP 指定为测试结果最快的那个
-assets*.xboxlive.cn = 59.63.235.26 // 注意 .com 和 .cn 不要都指向一个 IP
-dlassets.xboxlive.cn = 59.63.235.26
+assets*.xboxlive.com = 61.182.143.17 // IP 指定为测试结果最快的那个
+assets*.xboxlive.cn = 123.6.53.90 // 注意 .com 和 .cn 不要都指向一个 IP
+dlassets.xboxlive.cn = 117.11.113.165
