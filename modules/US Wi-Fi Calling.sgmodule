@@ -1,0 +1,5 @@
+#!name=US Wi-Fi Calling
+#!desc=US Wi-Fi Calling
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/Purplebuild/Surge/main/rules/US%20Wi-Fi%20Calling.list,✈️ 节点选择
