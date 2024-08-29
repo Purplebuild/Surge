@@ -1,0 +1,6 @@
+#!name=Diblo4
+#!desc=Diblo4
+
+[Host]
+#亚服
+prod.actual.battle.net = server:59.153.40.74
