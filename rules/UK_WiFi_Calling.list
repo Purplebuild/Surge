@@ -1,0 +1,8 @@
+# NAME: UK_WiFi_Calling 
+# AUTHOR: mz247
+# REPO: https://github.com/mz247/Surge
+# UPDATED: 
+# DOMAIN-SUFFIX: 
+# 支持UDP转发的节点
+
+DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
