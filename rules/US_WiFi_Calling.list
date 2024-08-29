@@ -1,4 +1,4 @@
-# NAME: US Wi-Fi Calling 
+# NAME: US WiFi Calling 
 # AUTHOR: mz247
 # REPO: https://github.com/mz247/Surge
 # UPDATED: 
@@ -29,3 +29,9 @@ DOMAIN-SUFFIX,eas3.msg.t-mobile.com
 #IP-CIDR,141.207.0.0/16
 #IP-CIDR,69.78.99.0/8
 #IP-CIDR,208.54.0.0/16
+
+#epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = server:208.54.49.131
+#ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = server:208.54.36.3
+#epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = server:208.54.35.163
+#ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = server:208.54.35.163
+#ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org = server:208.54.87.3
