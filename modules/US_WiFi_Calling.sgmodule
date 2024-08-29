@@ -1,5 +1,5 @@
-#!name=US Wi-Fi Calling
-#!desc=US Wi-Fi Calling
+#!name=US_WiFi_Calling
+#!desc=US_Wi-Fi_Calling
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/Purplebuild/Surge/main/rules/US%20Wi-Fi%20Calling.list,UDP
+RULE-SET,https://raw.githubusercontent.com/Purplebuild/Surge/main/rules/US_WiFi_Calling.list,UDP
