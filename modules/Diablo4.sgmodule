@@ -3,7 +3,7 @@
 
 [Host]
 #prod.actual.battle.net = server:59.153.40.74
-prod.actual.battle.net = server:59.153.40.90
-prod.actual.battle.net = server:137.221.104.172
+#prod.actual.battle.net = server:59.153.40.90
+#prod.actual.battle.net = server:137.221.104.172
 #kr.actual.battle.net（59.153.40.90）
 #us.actual.battle.net（137.221.104.172）
