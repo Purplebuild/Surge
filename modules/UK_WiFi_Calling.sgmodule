@@ -2,4 +2,4 @@
 #!desc=UK_Wi-Fi_Calling
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/Purplebuild/Surge/main/rules/US_WiFi_Calling.list,UDP
+RULE-SET,https://raw.githubusercontent.com/Purplebuild/Surge/main/rules/UK_WiFi_Calling.list,UDP
