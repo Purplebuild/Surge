@@ -5,6 +5,11 @@
 # DOMAIN-SUFFIX: 
 # 支持UDP转发的节点
 
+DOMAIN-KEYWORD, t-mobile
+IP-CIDR, 208.54.0.0/16
+IP-CIDR, 66.94.0.0/19
+IP-CIDR, 206.29.177.36/32
+
 #AT&T:
 DOMAIN-SUFFIX,epdg.epc.att.net
 DOMAIN-SUFFIX,sentitlement2.mobile.att.net
