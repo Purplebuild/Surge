@@ -1,0 +1,15 @@
+# NAME: YahooJP
+# AUTHOR: mz247
+# REPO: https://github.com/mz247/Surge
+# UPDATED: 
+# DOMAIN-SUFFIX: 
+# 支持UDP转发的节点
+
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahooapis.jp
+
+IP-CIDR,103.2.72.0/22
+IP-CIDR,114.110.48.0/20
+IP-CIDR,114.111.64.0/18
+IP-CIDR,124.83.128.0/17
+IP-CIDR,183.79.0.0/16
