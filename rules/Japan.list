@@ -5,6 +5,7 @@
 # DOMAIN-SUFFIX: 
 # 支持UDP转发的节点
 
+#日本雅虎
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yahooapis.jp
 DOMAIN-SUFFIX,yimg.jp
