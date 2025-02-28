@@ -9,3 +9,4 @@
 #前置代理检测域名为
 DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
