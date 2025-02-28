@@ -1,4 +1,11 @@
+# NAME: Google VPN Proxy 
+# AUTHOR: mz247
+# REPO: https://github.com/mz247/Surge
+# UPDATED: 
+# DOMAIN-SUFFIX: 
+
+
 
 #前置代理检测域名为
-*.cloud.cupronickel.goog
-*.googleapis.com
+DOMAIN-SUFFIX,cloud.cupronickel.goog
+DOMAIN-SUFFIX,googleapis.com
